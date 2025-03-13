@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>![image](https://github.com/user-attachments/assets/cf57d64b-181d-4de6-a38d-7fb63b2a6cdb)
+<p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>![image]/>
 
 
 ###
